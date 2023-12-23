@@ -12,7 +12,8 @@
         }
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.6"
+        "phpunit/phpunit": "^9.6",
+        "squizlabs/php_codesniffer": "*"
     },
     "require": {
         "psr/http-message": "^1.0",
